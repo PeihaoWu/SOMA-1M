@@ -47,12 +47,6 @@ The `test` dataset is available at the following links:
 - **Baidu Netdisk:** [Download Test Dataset](https://pan.baidu.com/s/1WKll9nzauD2M57OLXgkM4A)
   - Extraction code: `k656`
 
-**3. Full SOMA-1M Dataset**
-
-The complete `SOMA-1M` dataset has not yet been publicly released. Dataset resources will be released progressively through this repository in accordance with applicable third-party data licenses and copyright requirements.
-
-Additional subsets of `SOMA-1M` are being prepared for public release. Please stay tuned for future updates.
-
 # Citation
 If you find our work useful in your research, please consider giving a star ⭐ and a citation
 ```python
