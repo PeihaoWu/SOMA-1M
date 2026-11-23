@@ -32,14 +32,7 @@ SOMA-1M is a large-scale SAR–optical multimodal remote sensing dataset spannin
 
 ### Dataset Download
 
-**1. SOMA-0.1M Dataset (Released Subset)**
-
-The `SOMA-0.1M` dataset is now publicly available for research use. It can be downloaded from the following link:
-
-- **Baidu Netdisk:** [Download SOMA-0.1M (Release.zip)](https://pan.baidu.com/s/1pLlE6l1iHegbpj6r691Zdg?pwd=qnvn)
-  - Extraction code: `qnvn`
-
-**2. Test Dataset**
+**1. Test Dataset**
 
 The `test` dataset is available at the following links:
 
