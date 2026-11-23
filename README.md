@@ -40,6 +40,11 @@ The `test` dataset is available at the following links:
 - **Baidu Netdisk:** [Download Test Dataset](https://pan.baidu.com/s/1WKll9nzauD2M57OLXgkM4A)
   - Extraction code: `k656`
 
+### License & Terms of Use
+
+- The released SOMA-1M dataset package and associated metadata (including SAR patches, geographic coordinates, and sample-ID lists) are provided for non-commercial academic research under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, subject to the applicable upstream data licenses.
+- Users must comply with the license terms and attribution requirements of the respective original data providers, including Sentinel-1, Capella Space Open Data ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), PIESAT-1 (*DATA FROM PIESAT*), and Google Earth.
+
 # Citation
 If you find our work useful in your research, please consider giving a star ⭐ and a citation
 ```python
