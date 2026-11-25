@@ -40,6 +40,10 @@ The `test` dataset is available at the following links:
 - **Baidu Netdisk:** [Download Test Dataset](https://pan.baidu.com/s/1WKll9nzauD2M57OLXgkM4A)
   - Extraction code: `k656`
 
+**2. SOMA-0.1M Dataset**
+
+To obtain the complete `SOMA-0.1M` dataset (for **non-commercial academic research only**), please fill out the [**SOMA-0.1M Dataset Access Request Form**](https://docs.google.com/forms/d/e/1FAIpQLSc5TexquSYWTnLtJJzUJ28KnZAJrWjjzaOAC5s9gvkHemelhA/viewform?usp=publish-editor). The Baidu Netdisk download link and extraction code will be displayed automatically upon submission.
+
 ### License & Terms of Use
 
 - The released SOMA-1M dataset package and associated metadata (including SAR patches, geographic coordinates, and sample-ID lists) are provided for non-commercial academic research under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, subject to the applicable upstream data licenses.
